@@ -13,8 +13,9 @@ class PageController extends Controller
      */
     public function teacher(request $request)
     {
-        $teacher = Teacher::all();
-        return view('teacher', compact('teacher'));
+        $teachers = Teacher::all();
+        $subjects = Subject::all();
+        return view('teacher', compact('teachers', 'subjects'));
     }
     public function subject(request $request)
     {
