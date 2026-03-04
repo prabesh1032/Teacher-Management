@@ -8,7 +8,7 @@
     <p class="text-lg text-gray-700 mb-10">Easily manage your teachers and subjects all in one place. Simplify your administrative tasks and focus on what matters most — education.</p>
 
     <div class="space-x-4">
-        <a href="{{ route('teacher.show') }}" class="inline-block bg-indigo-600 text-white px-6 py-3 rounded-lg font-semibold shadow hover:bg-indigo-700 transition duration-300">
+        <a href="{{ route('teacher.show') }}" class="inline-block bg-indigo-700 text-white px-6 py-3 rounded-lg font-semibold shadow hover:bg-indigo-700 transition duration-300">
             View Teachers
         </a>
         <a href="{{ route('subjects.show') }}" class="inline-block border-2 border-indigo-600 text-indigo-600 px-6 py-3 rounded-lg font-semibold hover:bg-indigo-600 hover:text-white transition duration-300">
