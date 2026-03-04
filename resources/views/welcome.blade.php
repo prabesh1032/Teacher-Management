@@ -3,7 +3,7 @@
 @section('title', 'Welcome')
 
 @section('content')
-<div class="max-w-4xl mx-auto text-center py-20 px-6">
+<div class="max-w-4xl mx-auto text-center py-16 px-6">
     <h1 class="text-5xl font-extrabold text-indigo-700 mb-6">Welcome to Teacher Management</h1>
     <p class="text-lg text-gray-700 mb-10">Easily manage your teachers and subjects all in one place. Simplify your administrative tasks and focus on what matters most — education.</p>
 
