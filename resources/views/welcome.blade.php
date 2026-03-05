@@ -17,8 +17,8 @@
     </div>
 
     <div class="mt-20 grid grid-cols-1 md:grid-cols-3 gap-8 text-left">
-        <div class="p-6 bg-white rounded-lg shadow hover:shadow-lg transition duration-300">
-            <i class="ri-user-line text-indigo-600 text-4xl mb-4"></i>
+        <div class="p-6 bg-white rounded-lg shadow hover:shadow-md transition duration-300">
+            <i class="ri-user-line text-indigo-700 text-4xl mb-4"></i>
             <h3 class="text-xl font-bold mb-2">Manage Teachers</h3>
             <p>Keep track of all your teachers’ details including their subjects, contact info, and photos.</p>
         </div>
